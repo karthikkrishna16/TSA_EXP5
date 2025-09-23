@@ -1,6 +1,6 @@
 # Ex.No: 05  IMPLEMENTATION OF TIME SERIES ANALYSIS AND DECOMPOSITION
 
-### Date:
+### Date: 22-09-2025
 
 ---
 
@@ -89,14 +89,11 @@ print(df.head())
 **PLOTTING THE DATA:**
 The original temperature data over time is plotted to visualize variations and trends.
 
-**SEASONAL PLOT REPRESENTATION:**
-Shows recurring patterns throughout the year indicating seasonality.
-
-**TREND PLOT REPRESENTATION:**
-Shows the overall upward or downward trend of temperature over the years.
-
 **OVERALL REPRESENTATION:**
-The decomposition separates the time series into trend, seasonal, and residual components for detailed analysis.
+
+![alt text](image.png)
+
+![alt text](image-1.png)
 
 ---
 
